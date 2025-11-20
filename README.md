@@ -1,75 +1,68 @@
 <h1 align="center">Hi, I'm Prashanth R 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=900&color=00A8FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+%7C+JavaScript+Developer;Building+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=900&color=00A8FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+JavaScript+Engineer;Building+Responsive+Web+Interfaces" />
 </p>
 
-<br/>
+---
 
-<h2 align="center">✨ Let's Connect</h2>
+## 💼 About Me
+
+I'm a **Frontend Developer** focused on building clean, responsive, and accessible web interfaces using modern technologies.  
+I specialize in **React.js**, **JavaScript (ES6+)**, **Bootstrap**, and I enjoy turning designs into interactive, production-ready components.
+
+- 🔧 Currently refining my portfolio and preparing for software developer interviews  
+- 🎯 Passionate about UI/UX, layout flow, and performance  
+- 🚀 Always learning and iterating to improve design and functionality
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth2025&show_icons=true&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth2025&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Portfolio & Links
 
 <p align="center">
   <a href="mailto:prashanthramesh.02@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/prashanth2005r">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://prashanthramesh.onrender.com/">
-    <img src="https://img.shields.io/badge/My_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Prashanth2025">
-    <img src="https://img.shields.io/badge/GitHub_Profile-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<br/>
-
 ---
-
-## 🌟 About Me
-
-<p align="center">
-  A passionate frontend-focused developer who loves crafting beautiful, responsive,<br/>
-  and user-friendly web experiences. I enjoy turning creative ideas into interactive<br/>
-  UI components and exploring new modern web technologies.
-</p>
-
-<br/>
-
----
-
-## 🎨 Tech Stack
-
-<div align="center">
-
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
-
-### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,firebase" />
-
-</div>
-
-<br/>
-
----
-
-## ⚡ Aesthetic Animation (Frontend Vibes)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KRITHIKus&theme=onestar&no-frame=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-</p>
-
-<br/>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KRITHIKus&style=for-the-badge&color=blue" />
-</p>
-
