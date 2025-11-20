@@ -9,16 +9,16 @@
 <h2 align="center">✨ Let's Connect</h2>
 
 <p align="center">
-  <a href="mailto:krithikus2004@gmail.com">
+  <a href="mailto:prashanthramesh.02@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/krithik-u-s-a545a4326">
+  <a href="https://www.linkedin.com/in/prashanth2005r">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://krithikus.onrender.com/">
+  <a href="https://prashanthramesh.onrender.com/">
     <img src="https://img.shields.io/badge/My_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/KRITHIKus/">
+  <a href="https://github.com/Prashanth2025">
     <img src="https://img.shields.io/badge/GitHub_Profile-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
