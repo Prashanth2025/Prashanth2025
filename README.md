@@ -19,15 +19,19 @@ I specialize in **React.js**, **JavaScript (ES6+)**, **Bootstrap**, and I enjoy 
 
 ## 🧰 Tech Stack
 
-### Frontend
+## Frontend
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Node JS](https://skillicons.dev/icons?i=Node)
 
+### Backend
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![REST API](https://skillicons.dev/icons?i=postman)
 ### Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
