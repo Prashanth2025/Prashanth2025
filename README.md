@@ -26,7 +26,7 @@ I specialize in **React.js**, **JavaScript (ES6+)**, **Bootstrap**, and I enjoy 
 ![React](https://skillicons.dev/icons?i=react)
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Node JS](https://skillicons.dev/icons?i=Node)
 
 ### Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
