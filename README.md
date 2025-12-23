@@ -8,9 +8,9 @@
 
 ## 💼 About Me
 
-#Frontend Developer fresher with hands-on experience in React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, and Figma. Skilled in building responsive user interfaces, integrating REST APIs, and deploying projects using Netlify and Render. Proficient in Git/GitHub for version control and applying clean component architecture. Passionate about accessibility, performance optimization, and creating intuitive user experiences.
-#On the backend, experienced with Node.js, Express.js, and MongoDB, including designing RESTful APIs, handling authentication, and managing CRUD operations. Familiar with EJS templating, middleware, and database schema design. Adept at connecting frontend applications with backend services to deliver seamless full-stack solutions.
-#Eager to contribute to collaborative development teams and grow in a fast-paced, agile environment while continuously learning modern web technologies.
+Frontend Developer fresher with hands-on experience in React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, and Figma. Skilled in building responsive user interfaces, integrating REST APIs, and deploying projects using Netlify and Render. Proficient in Git/GitHub for version control and applying clean component architecture. Passionate about accessibility, performance optimization, and creating intuitive user experiences.
+On the backend, experienced with Node.js, Express.js, and MongoDB, including designing RESTful APIs, handling authentication, and managing CRUD operations. Familiar with EJS templating, middleware, and database schema design. Adept at connecting frontend applications with backend services to deliver seamless full-stack solutions.
+Eager to contribute to collaborative development teams and grow in a fast-paced, agile environment while continuously learning modern web technologies.
 
 
 - 🔧 Currently refining my portfolio and preparing for software developer interviews  
