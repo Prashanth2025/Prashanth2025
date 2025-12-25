@@ -29,12 +29,13 @@ Eager to contribute to collaborative development teams and grow in a fast-paced,
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-### Backend
+## Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![REST API](https://skillicons.dev/icons?i=postman)
-### Tools & Platforms
+
+## Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
