@@ -41,7 +41,6 @@ Eager to contribute to collaborative development teams and grow in a fast-paced,
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ---
 
