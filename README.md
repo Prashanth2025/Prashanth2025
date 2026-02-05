@@ -50,9 +50,10 @@ I am eager to contribute to collaborative teams and grow in a fast‑paced, agil
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth2025&show_icons=true&hide_border=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Prashanth2025&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth2025&hide_border=true&theme=tokyonight" />
+ <img src="https://streak-stats.demolab.com?user=Prashanth2025&theme=tokyonight" />
+
 </p>
 
 ---
