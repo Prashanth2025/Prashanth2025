@@ -69,17 +69,6 @@ I enjoy working across the stack to deliver **complete, real-world solutions**.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prashanth2025&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Prashanth2025&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Let’s Connect
 
 <p align="center">
