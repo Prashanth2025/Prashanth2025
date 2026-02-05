@@ -1,34 +1,47 @@
-<h1 align="center">Hi, I'm Prashanth R 👋</h1>
+<h1 align="center">Hey there, I'm Prashanth R 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=900&color=00A8FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%7C+JavaScript+Engineer;Crafting+Responsive+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2600&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+JavaScript+Engineer;Designing+Interfaces+That+Feel+Right" />
 </p>
 
 ---
 
-## 💼 About Me
+## 👨‍💻 Who Am I?
 
-I’m a **Frontend Developer** with hands-on experience building modern, responsive web applications using  
-**React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, and Figma**.
+I’m a **Frontend Developer** who enjoys turning ideas into clean, responsive, and user-friendly web experiences.  
+I work primarily with **React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, and Figma**, focusing on building interfaces that are both visually appealing and easy to use.
 
-I **specialize in UI design and REST API integration**, focusing on creating clean, intuitive user interfaces and seamlessly connecting frontend components with backend services.
+What sets me apart is my **specialization in UI design and REST API integration** — I love crafting intuitive layouts and wiring them to real data through well-structured APIs.
 
-My core strengths include:
-- Building reusable, scalable UI components  
-- Integrating and consuming RESTful APIs  
-- Optimizing layout flow, responsiveness, and performance  
+I care deeply about:
+- ✨ User experience and visual clarity  
+- ⚡ Performance and responsiveness  
+- 🔗 Smooth communication between frontend and backend  
 
-On the backend, I have practical experience with **Node.js, Express.js, and MongoDB**, including:
-- Designing RESTful APIs  
-- Authentication & authorization  
-- CRUD operations and database schema design  
+---
 
-I enjoy bridging frontend and backend logic to deliver **end-to-end full-stack solutions**.  
-Currently refining my portfolio and preparing for software developer interviews in agile, collaborative environments.
+## 🛠️ What I Do Best
 
-- 🔧 Working on real-world projects & interview readiness  
-- 🎯 Strong interest in UI/UX, accessibility, and performance  
-- 🚀 Continuous learner exploring modern web technologies  
+- Design and build **reusable UI components** with React  
+- Integrate **RESTful APIs** and manage async data flows  
+- Create layouts that adapt beautifully across devices  
+- Optimize UI performance and maintain clean codebases  
+
+On the backend side, I have hands-on experience with:
+- **Node.js & Express.js** for API development  
+- **MongoDB** with Mongoose for schema design and CRUD  
+- Authentication, middleware, and basic security practices  
+
+I enjoy working across the stack to deliver **complete, real-world solutions**.
+
+---
+
+## 🚀 Current Focus
+
+- 🔧 Strengthening my portfolio with production-style projects  
+- 🎯 Preparing for software developer interviews  
+- 📐 Improving UI/UX, accessibility, and component architecture  
+- 📚 Continuously learning modern web development practices  
 
 ---
 
@@ -48,7 +61,7 @@ Currently refining my portfolio and preparing for software developer interviews 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
-### Tools & Platforms  
+### Tools  
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
@@ -56,17 +69,17 @@ Currently refining my portfolio and preparing for software developer interviews 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth2025&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth2025&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth2025&hide_border=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Prashanth2025&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Portfolio & Links
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="mailto:prashanthramesh.02@gmail.com">
